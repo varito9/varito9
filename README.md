@@ -134,18 +134,12 @@
   <a href="https://www.linkedin.com/in/varitoo/" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sophie-linkedin" />
   </a>
-  <a href="mailto:alvarosaldanaaa@gmail.com" target="top" rel="noopener noreferrer">
+  <a href="mailto:alvarosaldanaaa@gmail.com?subject=Consulta" target="top" rel="noopener noreferrer">
   <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="sophie-email"/>
   </a>
 </div>
 
 <br>
-<div align="center">
-<a href="https://github.com/SophieNguyen113">
-<img src="https://wallpapercave.com/wp/wp10580805.jpg" width="200px" height="200px" alt="Sunflower">
-</a>
-
-</div>
 
 <img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">
 
