@@ -4,17 +4,17 @@
 </a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hola!+Soy+Alvaro+Saldaña+)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Nice+to+meet+you+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Bienvenido+a+mi+perfil+)](https://git.io/typing-svg)
 
-🙋‍♂️ Thank you for visiting my GitHub profile! 
+🙋‍♂️ Gracias por visitar mi perfil de GitHub! 
 
-💻 SWE Intern @ CodeDay Labs || DEV @ Google Developer Student Club || CS @ GSU || Full Stack Web Dev
+💻 || Full Stack Web Dev
 
 <hr>
 
-## 🚀💻 Technologies & Tools
+## 🚀💻 Tecnologias & Herramientas
 
-### <u> Languages: </u>
+### <u> Lenguajes: </u>
 
 <br>
 
@@ -24,7 +24,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
 <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo"  title="Python" height="25"/>
 </span>
