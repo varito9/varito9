@@ -134,7 +134,7 @@
   <a href="https://www.linkedin.com/in/varitoo/" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sophie-linkedin" />
   </a>
-  <a href="mailto:sophiengocnguyen113@gmail.com" target="top" rel="noopener noreferrer">
+  <a href="sophiengocnguyen113@gmail.com" target="top" rel="noopener noreferrer">
   <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="sophie-email"/>
   </a>
 </div>
