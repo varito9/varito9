@@ -34,7 +34,7 @@
 &nbsp;
 <br>
 
-### <u> Frontend Development Technologies and Tools: </u>
+### <u> Desarrollo Frontend: </u>
 
 <br>
 
@@ -44,7 +44,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 
-### <u> Backend Development + Database + DevOps + Deployment Technologies & Tools: </u>
+### <u> Desarrollo Backend + Base de Datos + DevOps + Desplegamiento: </u>
 
 <br>
 
@@ -61,7 +61,7 @@
 <span><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo" title="Docker Code" height="25" /></span>
 &nbsp;
 
-### <u> Mobile App Development Technologies & Tools: </u>
+### <u>Tecnologías y herramientas de Aplicaciones Móviles: </u>
 
 <br>
 
@@ -71,7 +71,7 @@
 &nbsp;
 
 
-### <u> Version Control and Tools:</u>
+### <u> Control de Versiones:</u>
 
 <br>
 
@@ -105,10 +105,6 @@
 <br>
 <br>
 
-<i> Recently, I'm also learning: </i>
-
-<span><img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL logo" title="GraphQL" height="25" /></span>
-&nbsp;
 
 <br>
 
