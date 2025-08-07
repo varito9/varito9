@@ -5,7 +5,7 @@
 
 🙋‍♂️ Gracias por visitar mi perfil de GitHub! 
 
-💻 || Full Stack Web Dev
+💻 ||Desarrollo Web Full Stack 
 
 <hr>
 
