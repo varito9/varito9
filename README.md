@@ -133,9 +133,9 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/varitoo/" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sophie-linkedin" />
-  </a>
-  <a href="mailto:alvarosaldanaaa@gmail.com?subject=Consulta" target="top" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="sophie-email"/>
+    
+  <a href="https://mail.google.com/mail/?view=cm&to=alvarosaldanaaa@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="Enviar correo a Álvaro"/>
   </a>
 </div>
 
