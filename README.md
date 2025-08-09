@@ -4,12 +4,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Bienvenido+a+mi+perfil+)](https://git.io/typing-svg)
 
 🙋‍♂️ Gracias por visitar mi perfil de GitHub! 
+💻 ||Desarrollo Web Full Stack 
+
 
 # Mi Portfolio
 
-Bienvenido a mi portfolio de proyectos. Puedes ver más detalles y proyectos en mi [GitHub Portfolio](https://github.com/tu_usuario/tu_portfolio).
-
-💻 ||Desarrollo Web Full Stack 
+Bienvenido a mi portfolio de proyectos. Puedes ver más detalles y proyectos en mi [GitHub Portfolio](http://a24alvsalalv.daw.inspedralbes.cat/PORTFOLIO/).
 
 <hr>
 
