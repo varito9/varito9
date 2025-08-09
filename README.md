@@ -9,7 +9,9 @@
 
 # Mi Portfolio
 
-Bienvenido a mi portfolio de proyectos. Puedes ver más detalles y proyectos en mi [GitHub Portfolio](http://a24alvsalalv.daw.inspedralbes.cat/PORTFOLIO/).
+Bienvenido a mi [portfolio](http://a24alvsalalv.daw.inspedralbes.cat/PORTFOLIO/) de proyectos. Puedes ver más detalles y proyectos dandole click al enlace o a la imagen.
+
+[![Texto alternativo](portfolio.png)](http://a24alvsalalv.daw.inspedralbes.cat/PORTFOLIO/)
 
 <hr>
 
